@@ -13,7 +13,7 @@
 
 ### Introduction
 
-This repository provides a version of CellDino on segmentation. CellDino is a transformer-based end-to-end cell segmentation and tracking model. The tracking version will be updated soon!
+CellDino is a transformer-based end-to-end cell segmentation and tracking model.
 
 **Weakly-supervised training for CELL DINO will be coming soon.**
 
