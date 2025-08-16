@@ -15,6 +15,8 @@
 
 This repository provides a version of CellDino on segmentation. CellDino is a transformer-based end-to-end cell segmentation and tracking model. The tracking version will be updated soon!
 
+**Weakly-supervised training for CELL DINO will be coming soon.**
+
 ### Installation
 
 See [installation instructions](INSTALL.md)
@@ -33,7 +35,7 @@ We trained and evaluated our approach on 2D datasets from the **[Cell Tracking C
 
 "Fluo-C2DL-MSC".
 
-To train on the CTC datasets please download and unzip the aforementioned datasets from the CTC from [here](http://celltrackingchallenge.net/2d-datasets/). Save the training data (without any renaming) of each cell type, called **Training Dataset** on the CTC website, to the folder: 
+To train on the CTC datasets please download and unzip the aforementioned datasets from the CTC from [here](http://celltrackingchallenge.net/2d-datasets/). Save the training data (without any renaming[...]
 ```
 ...\ctc_raw_data\train
 ```
